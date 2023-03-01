@@ -11,10 +11,12 @@
 3. [Numpy](https://numpy.org/)
 4. [Pandas](https://pandas.pydata.org/)
 5. [Matplotlib](https://matplotlib.org/)
+6. 
 
 ## Todo
-- [ ] Cleaning Dataset
-- [ ] Defining Preprocessing Methods
-- [ ] Defining Model
-- [ ] Training Model
-- [ ] Testing Model
+- [x] Data Preprocessing
+- [ ] Data Augmentation
+- [x] Machine Learning Model Training
+- [x] Machine Learning Model Evaluation
+- [ ] Deep Learning Model Training
+- [ ] Deep Learning Model Evaluation
