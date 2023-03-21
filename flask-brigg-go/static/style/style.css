@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: None;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: Monserrat;
+    background: None !important;
+    position: relative;
+}
+
+/*index*/
+.select {
+    width: 100%;
+    margin: 40px;
+}
+
+.form-select {
+    border-radius: 25px;
+    border: None !important;
+    border-radius: 25px !important;
+}
+
+#bg {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -99;
+    top: 0;
+    margin-top: 0;
+    opacity: 0.5;
+}
+
+
+/*home*/
+.result {
+    background-color: #EAEAEA !important;
+    height: 100%;
+    margin-top: 80px;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+
+#labelInp {
+    margin-top: 120px;
+    margin-left: 15px;
+}
+
+.titleHome {
+    color: #231866;
+}
+
+
+#inpLink {
+    width: 100%;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    border: None !important;
+}
+
+#personalityLabel {
+    color: #457e41;
+}
+
+#dec {
+    text-align: justify !important;
+    color: #4D4D4D;
+}
+
+.brand {
+    font-size: 110px;
+}
+
+.title1 {
+    font-size: 30px;
+    opacity: 0.7;
+    margin-left: 10px;
+}
+
+.titleEnd {
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+.btnLink {
+    background-color: #231866 !important;
+    border-radius: 25px !important;
+    padding: 10px 80px !important;
+}
+
+.result p {
+    text-align: justify !important;
+    text-justify: inter-word;
+    margin: 30px !important;
+    color: #4D4D4D !important;
+}
+
+
+
+/*faq html*/
+.title-faq {
+    color: #231866;
+    font-weight: bold;
+}
+
+.question-wrap {
+    margin-top: 80px;
+    text-align: justify !important;
+    text-justify: inter-word;
+}
+
+hr {
+    border-width: 2px !important;
+}
+
+.question-wrap p {
+    margin-left: 30px;
+    color: #4D4D4D !important;
+}
+
+
+
+/*about mbti*/
+.titleAbout {
+    color: #231866;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.about-wrap {
+    text-align: justify !important;
+    text-justify: inter-word;
+}
+
+.about-wrap p {
+    color: #4D4D4D !important;
+}
+
